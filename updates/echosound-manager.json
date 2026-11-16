@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "build": 2,
+  "notes": "Multiple Set List slot copy/paste, dependency transfer between sets, and one-step undo.",
+  "platforms": {
+    "mac": {
+      "url": "https://github.com/janiskorg87/echo-pais/releases/download/echosound-v1.0.1-build2/EchoSound-Manager-1.0.1-mac-arm64.dmg",
+      "size": 10360382,
+      "sha256": "248999b4b9426901b07a12e2d9019b3d698993e08f330c30226c11ca64d7b03a"
+    }
+  }
+}
