@@ -5,8 +5,8 @@
   "platforms": {
     "mac": {
       "url": "https://github.com/janiskorg87/echo-pais/releases/download/echosound-v1.0.1-build3/EchoSound-Manager-1.0.1-mac-arm64.dmg",
-      "size": 10360382,
-      "sha256": "248999b4b9426901b07a12e2d9019b3d698993e08f330c30226c11ca64d7b03a"
+      "size": 10039561,
+      "sha256": "fcc2f939f790ae9d7513d6cf38d0e7e265cf375620cd22d48f61dbe86313e9bc"
     },
     "windows": {
       "url": "https://github.com/janiskorg87/echo-pais/releases/download/echosound-v1.0.1-build3/EchoSound-Manager-1.0.1-win.exe",
