@@ -1,17 +1,17 @@
 {
   "version": "1.0.1",
-  "build": 3,
-  "notes": "Multiple Set List slot copy/paste, dependency transfer between sets, and one-step undo.",
+  "build": 16,
+  "notes": "Updated EchoSound Manager for macOS and Windows. Corrected sample memory calculations and KSC/UserBank handling.",
   "platforms": {
     "mac": {
       "url": "https://github.com/janiskorg87/echo-pais/releases/download/echosound-v1.0.1-build3/EchoSound-Manager-1.0.1-mac-arm64.dmg",
-      "size": 10039561,
-      "sha256": "fcc2f939f790ae9d7513d6cf38d0e7e265cf375620cd22d48f61dbe86313e9bc"
+      "size": 11011318,
+      "sha256": "5416324ba67b5da2271e1ea6c2b1d4a38bd37b763a1cf424d8230bb3bbd328a2"
     },
     "windows": {
       "url": "https://github.com/janiskorg87/echo-pais/releases/download/echosound-v1.0.1-build3/EchoSound-Manager-1.0.1-win.exe",
-      "size": 32213523,
-      "sha256": "a1931bb17854d765dd1d21fc24ca6861a746982c751993901d650dc47babbeed"
+      "size": 32271037,
+      "sha256": "d19fe92414f6de10260f42614120369eaf89049caf86f178ac5612ed3394fb0e"
     }
   }
 }
