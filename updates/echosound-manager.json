@@ -1,17 +1,17 @@
 {
   "version": "1.0.1",
-  "build": 16,
-  "notes": "Updated EchoSound Manager for macOS and Windows. Corrected sample memory calculations and KSC/UserBank handling.",
+  "build": 24,
+  "notes": "Updated EchoSound Manager for macOS and Windows. Integrated Sampler Manager, sample preview, multisample copying and KMP/KSF export.",
   "platforms": {
     "mac": {
       "url": "https://github.com/janiskorg87/echo-pais/releases/download/echosound-v1.0.1-build3/EchoSound-Manager-1.0.1-mac-arm64.dmg",
-      "size": 11011318,
-      "sha256": "5416324ba67b5da2271e1ea6c2b1d4a38bd37b763a1cf424d8230bb3bbd328a2"
+      "size": 18666744,
+      "sha256": "ff535db2320864d0e8d711bae5918594d8dcfb58c7a37a5c254acc0c64a9c567"
     },
     "windows": {
       "url": "https://github.com/janiskorg87/echo-pais/releases/download/echosound-v1.0.1-build3/EchoSound-Manager-1.0.1-win.exe",
-      "size": 32271037,
-      "sha256": "d19fe92414f6de10260f42614120369eaf89049caf86f178ac5612ed3394fb0e"
+      "size": 32602100,
+      "sha256": "9f26544a5df40766c446c14f1bb9f0308105614197ad4191fd7c75da76df66c3"
     }
   }
 }
